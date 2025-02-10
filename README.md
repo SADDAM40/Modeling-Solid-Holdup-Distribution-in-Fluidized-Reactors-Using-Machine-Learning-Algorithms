@@ -32,13 +32,9 @@ The goal is to predict **solids holdup distribution**, which represents the frac
 The study evaluates **five machine learning algorithms**, training them on experimental data to develop models that can accurately represent fluidized bed reactor behavior.
 
 ## References
-- Zheng, Ying, Jing-Xu Zhu, Narenderpal S. Marwaha, and Amarjeet S. Bassi.  
-  **"Radial solids flow structure in a liquid–solids circulating fluidized bed."**  
-  *Chemical Engineering Journal* 88, no. 1 (2002): 141-150.  
+- Zheng, Ying, Jing-Xu Zhu, Narenderpal S. Marwaha, and Amarjeet S. Bassi. **"Radial solids flow structure in a liquid–solids circulating fluidized bed."** *Chemical Engineering Journal* 88, no. 1 (2002): 141-150.  
 
-- Razzak, Shaikh A., Saddam A. Al-Hammadi, Syed M. Rahman, Mohammad R. Quddus, Mohammad M. Hossain, and Jesse Zhu.  
-  **"Scale-up effect analysis and modeling of liquid–solid circulating fluidized bed risers using multigene genetic programming."**  
-  *Particuology* 52 (2020): 57-66.  
+- Razzak, Shaikh A., Saddam A. Al-Hammadi, Syed M. Rahman, Mohammad R. Quddus, Mohammad M. Hossain, and Jesse Zhu.  **"Scale-up effect analysis and modeling of liquid–solid circulating fluidized bed risers using multigene genetic programming."** *Particuology* 52 (2020): 57-66.  
 
 
 
