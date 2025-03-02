@@ -29,7 +29,7 @@ The machine learning models were trained using the following parameters:
 The goal is to predict **solids holdup distribution**, which represents the fraction of the **reactor volume occupied by solid particles** in the liquid phase. This parameter significantly influences **hydrodynamics, mass transfer, and overall reactor performance**.
 
 ## Machine Learning Approach
-The study evaluates **five machine learning algorithms**, training them on experimental data to develop models that can accurately represent fluidized bed reactor behavior.
+The study evaluates **five machine learning algorithms**, training them on experimental data to develop models that can accurately represent fluidized bed reactor dynamics.
 
 ## References
 - Zheng, Ying, Jing-Xu Zhu, Narenderpal S. Marwaha, and Amarjeet S. Bassi. **"Radial solids flow structure in a liquid–solids circulating fluidized bed."** *Chemical Engineering Journal* 88, no. 1 (2002): 141-150.  
