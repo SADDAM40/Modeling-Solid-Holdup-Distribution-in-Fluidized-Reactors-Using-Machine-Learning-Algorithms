@@ -106,8 +106,8 @@ Execute the notebook cells sequentially to perform data cleaning, model training
 ## 8. Modeling Results Snapshot
 Below is a snapshot of the modeling results showcasing key performance metrics.
 
+![Image 3](https://github.com/user-attachments/assets/dd04ab8b-61c2-4a56-936f-fabb38f57058)
 
-![Image 3](https://github.com/user-attachments/assets/cbf85e92-d9ff-4f37-85de-12438e48b39a)
 
 *Figure: Comparison of model performance metrics (MSE, RMSE, R²)*
 
