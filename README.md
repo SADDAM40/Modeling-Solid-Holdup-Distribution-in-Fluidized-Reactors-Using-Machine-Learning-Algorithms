@@ -75,8 +75,7 @@ Performance was evaluated using metrics such as Mean Squared Error (MSE), Root M
   *Strong performance but may be prone to overfitting.*
 
 - **Support Vector Machine Regression (SVM)** and **Linear Regression (LR):**  
-  - Moderate performance with R² scores around 0.79 and MSE values near 0.000296–0.000299.  
-  *Limited by their inherent assumptions.*
+  - Moderate performance with R² scores around 0.79 and MSE values near 0.000296–0.00029.  
 
 - **K-Nearest Neighbors Regression (KNN):**  
   - R²: 0.704849  
