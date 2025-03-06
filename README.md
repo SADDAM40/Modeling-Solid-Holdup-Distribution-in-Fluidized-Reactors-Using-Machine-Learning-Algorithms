@@ -4,22 +4,6 @@ This project demonstrates the use of five different machine learning algorithms 
 
 ---
 
-## Table of Contents
-1. [Background](#background)
-2. [Data Collection](#data-collection)
-3. [Data Cleaning](#data-cleaning)
-4. [Deploying Machine Learning Models](#deploying-machine-learning-models)
-   - [4.1 Linear Regression](#41-linear-regression)
-   - [4.2 K-Nearest Neighbors Regression (KNN)](#42-k-nearest-neighbors-regression-knn)
-   - [4.3 Support Vector Machine Regression (SVM)](#43-support-vector-machine-regression-svm)
-   - [4.4 Decision Tree Regression (DTR)](#44-decision-tree-regression-dtr)
-   - [4.5 Random Forest Regression (RFR)](#45-random-forest-regression-rfr)
-5. [Comparing the Models](#comparing-the-models)
-6. [Discussion and Conclusion](#discussion-and-conclusion)
-7. [References](#references)
-
----
-
 ## 1. Background
 In this work, five different machine learning algorithms are utilized to predict the solids holdup distribution in three LSCFB reactors and to model their hydrodynamics. LSCFB reactors are essential in chemical, biochemical, environmental, and petrochemical applications. However, experimental studies on these reactors can be prohibitively expensive and sometimes impractical due to safety and technical limitations. Machine learning offers an efficient alternative to capture complex reactor behaviors with reduced cost and risk.
 
@@ -106,13 +90,36 @@ The analysis confirms that Random Forest Regression (RFR) is the most effective 
 
 ---
 
-## 7. References
+## 7. How to Run
+
+### Data Preparation:
+Ensure that the `Solid_Holdup.csv` file is present in the repository root.
+
+### Notebook Execution:
+Open `Solid_Holdup_Distribution_Predictive_Model.ipynb` using Jupyter Notebook or JupyterLab.
+
+### Run the Analysis:
+Execute the notebook cells sequentially to perform data cleaning, model training, evaluation, and model comparison.
+
+---
+
+## 8. Modeling Results Snapshot
+Below is a snapshot of the modeling results showcasing key performance metrics.
+
+
+![Image 3](https://github.com/user-attachments/assets/cbf85e92-d9ff-4f37-85de-12438e48b39a)
+
+*Figure: Comparison of model performance metrics (MSE, RMSE, R²)*
+
+---
+
+## 9. References
 - **Zheng, Y., Zhu, J.-X., Marwaha, N. S., & Bassi, A. S.** (2002). Radial solids flow structure in a liquid–solids circulating fluidized bed. *Chemical Engineering Journal, 88*(1), 141-150.
 - **Razzak, S. A., Al-Hammadi, S. A., Rahman, S. M., Quddus, M. R., Hossain, M. M., & Zhu, J.** (2020). Scale-up effect analysis and modeling of liquid–solid circulating fluidized bed risers using multigene genetic programming. *Particuology, 52*, 57-66.
 
 ---
 
-## Repository Structure
+## 10. Repository Structure
 ```bash
 ├── README.md
 ├── Solid_Holdup.csv
